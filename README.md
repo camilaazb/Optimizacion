@@ -4,7 +4,9 @@ https://camilaazb.github.io/Optimizacion/Optimizacion%20tarea.html
 # Ejercicio 1: 
 El ejercicio permite obtener las cantidades más optimas para minimizar los gastos.
 
-# Ejercicio 2:
+# Ejercicio 2: 
+https://camilaazb.github.io/Optimizacion/ejercicio2.html 
+
 El ejercicio se basa en optimizar el mejor lugar para seguir un programa de maestrías en políticas públicas en base a 3 criterios: 
 Costo de vida - dificultad del idioma - posibilidades de conseguir empleo
 
