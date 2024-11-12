@@ -21,4 +21,5 @@ Ingresos per capita
 Beneficiarios del CIAM o Club Adulto Mayor
 Presupuesto ejecutado per capita
 ![image](https://github.com/user-attachments/assets/816e8f38-9512-48d7-9fcd-513756d42f4c)
+
 Se observa que el municipio "SURQUILLO" podrían estar considerados como más eficientes
