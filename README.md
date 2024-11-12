@@ -10,6 +10,8 @@ https://camilaazb.github.io/Optimizacion/Ejercicio%202.html
 El ejercicio se basa en optimizar el mejor lugar para seguir un programa de maestrías en políticas públicas en base a 3 criterios: 
 Costo de vida - dificultad del idioma - posibilidades de conseguir empleo
 El mejor país para hacer la maestría es Alemania
+
+
 ![image](https://github.com/user-attachments/assets/7b390d3c-46a2-4b0a-87a3-c597bcdcbbca)
 
 # Ejercicio 3:
