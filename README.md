@@ -9,6 +9,9 @@ https://camilaazb.github.io/Optimizacion/ejercicio2.html
 
 El ejercicio se basa en optimizar el mejor lugar para seguir un programa de maestrías en políticas públicas en base a 3 criterios: 
 Costo de vida - dificultad del idioma - posibilidades de conseguir empleo
+![image](https://github.com/user-attachments/assets/367ef19f-c65d-4da4-b23c-4f16c35b564d)
+El mejor país para hacer la maestría es Chile
+
 
 # Ejercicio 3:
 El ejercicio evalua en base a inputs y outputs, los resultados de eficiencia de los municipios locales de Lima Metropolitana para atender a la población adulto mayor.
@@ -18,3 +21,5 @@ Ingresos per capita
 **Outputs**
 Beneficiarios del CIAM o Club Adulto Mayor
 Presupuesto ejecutado per capita
+![image](https://github.com/user-attachments/assets/816e8f38-9512-48d7-9fcd-513756d42f4c)
+Se observa que el municipio "SURQUILLO" podrían estar considerados como más eficientes
